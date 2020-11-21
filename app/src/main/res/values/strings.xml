@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MAD_Tut1</string>
+    <string name="entermsg">Enter a message</string>
+    <string name="send">Send</string>
+</resources>
